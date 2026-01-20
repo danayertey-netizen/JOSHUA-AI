@@ -1,0 +1,8 @@
+{
+  "name": "JOSHUA AI",
+  "description": "A comprehensive JHS learning companion designed for Ghanaian students to master BECE subjects through AI-powered tutoring, question solving, and exam preparation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
